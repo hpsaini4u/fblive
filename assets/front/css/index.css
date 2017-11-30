@@ -1,0 +1,695 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6
+{
+	margin:0;
+}
+body {
+  font-family: "lato",sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.menubar {
+  position: relative;
+  font-family: 'lato', sans-serif;
+}
+
+.menubar .navbar-brand {
+  padding: 10px;
+}
+
+.menubar .navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+.navbar-brand img {
+    width: 50%;
+}
+
+.menu .navbar-default {
+  margin-bottom: 0;
+}
+
+ul.menu li {
+  padding: 8px;
+  text-align: right;
+}
+
+.menu .navbar-default li > a {
+  color: #555;
+  font-weight: 600;
+}
+
+.menu .navbar-default li > a:hover {
+  color: #f76f55;
+}
+.nav > li > a {
+    color:#000 !important;
+    font-size:14px !important;
+}
+
+.menu .navbar {
+  min-height: 25px;
+}
+
+.menubar .navbar-toggle {
+  background-color: #f76755;
+  margin-top: -30px;
+}
+
+.menubar .navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.menubar .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #f76755;
+}
+
+
+
+/****************END HEADER STYLE********************/
+/****************BANNER SECTION *********************/
+
+
+#home-section {
+  background: rgba(0, 0, 0, 0) url("../images/banner.jpg") no-repeat fixed 0 0;
+  color: #fff;
+  padding: 160px 0;
+  text-align: center;
+}
+
+.banner-content > h3 {
+  font-family: "open sans";
+  font-size: 54px;
+}
+
+.banner-content > p {
+  font-size: 24px;
+}
+
+.button-one.text-center {
+  margin-top: 60px;
+}
+
+.button-one a {
+  background: #f76f55 none repeat scroll 0 0;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-shadow: 0 2px #d84b2f;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 35px;
+}
+
+
+
+/****************END BANNER SECTION *********************/
+
+/****************imp SECTION *********************/
+
+.imp-section {
+  color: #fff;
+  padding:50px 0;
+}
+
+.imp-section-image {
+  text-align: center;
+}
+
+.main-content > h3 {
+  font-family: "montserrat";
+  font-size: 46px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+
+.main-content > p {
+  font-family: "lato",sans-serif;
+  font-size: 19px;
+}
+
+ul.questions {
+  list-style: outside none number;
+  padding: 0;
+}
+
+.questions > li {
+  font-family: "lato",sans-serif;
+  font-size: 19px;
+}
+
+.section-green {
+  background: #04cac7;
+}
+.feature-area h2{
+	font-weight:600;
+	font-size:50px;
+	text-align:center;
+	padding-bottom:10px;
+}
+.features-section
+{
+		display:inline-block;
+		padding:30px 0;
+}
+
+
+/****************END imp SECTION *********************/
+
+
+/****************CASE STUDIES SECTION *********************/
+.title h4{
+    font-weight:600;
+	font-size:50px;
+	text-align:center;
+	text-transform:uppercase;
+	padding-bottom:15px;
+}
+.case-study-section
+{
+	padding:30px 0;
+}
+.study-text p
+{
+	font-size:20px;
+	padding-left:10px;
+}
+
+
+/****************END CASE STUDIES SECTION *********************/
+
+
+/****************FOOTER SECTION *********************/
+
+.footer
+{
+	background-color:#04cac7;
+	padding:40px 0;
+}
+.footer-links a
+{
+	display:block;#room-urls h2
+}
+.footer-links a
+{
+	color:#fff;
+}
+.mail-section {
+    background: #fff;
+    border: 1px solid #c1c1c1;
+    padding: 36px 10px;
+}
+
+.send-brnd-btn {
+    padding: 10px 0;
+    text-align: center;
+}
+.send-brnd-btn a {
+    background: #04cac7;
+    padding:10px 50px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    color: #fff;
+   }
+.urllink-sec {
+    padding: 24px 0;
+    text-align: center;
+}
+.email-sec {
+    padding: 10px 0;
+    text-align: center;
+}
+	color:#fff;
+	padding:10px 0;
+}
+.link-name
+{
+	color:#fff;
+	font-size:18px;
+	margin-left:10px;
+}
+.social-links i
+{
+	color:#fff;
+	padding:10px 0;
+}
+.app-links img
+{
+	width:50%;
+	padding:10px 0;
+}
+.message-us  i
+{
+	color:#fff;
+}
+.message-us h5
+{
+	background:#f98169;
+	padding:15px 0;
+    width: 50%;
+	border-radius:10px;
+	text-align:center;
+	font-size:20px;	
+	text-decoration:none;
+}
+.chat-area
+{
+	color:#fff;
+}
+
+/****************END FOOTER SECTION *********************/
+
+#main-area
+{
+	background:#ededed;
+	padding:50px 0;
+}
+.title
+{
+	color:#cf2d78;
+	text-align:center;
+	font-size:40px;
+	font-weight:600;
+	
+}
+.sub-title
+{
+	text-align:center;
+	font-size:16px;
+	font-weight:300;
+	line-height:30px;
+}
+.table-section
+{
+	width:80%;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+.table-top
+{
+	background-color:#3db39e;
+	text-align:center;
+	padding:10px 0;
+	color:#fff;
+	font-size:14px;
+	font-weight:300;
+}
+
+
+
+.contact-btn {
+    text-decoration: none;
+    color: #fff;
+    background: #3db39e;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.web-cam
+	{
+	background:#edf2f9;
+	padding:50px 0;
+	}
+	.invite-section {
+    padding: 10px;
+}
+	.web-cam-sec {
+    border: 2px solid #40cac7;
+    padding: 30px 10px;
+}
+.copy-camera-btns {
+    text-align:center;
+}
+	.copy-link-btn
+	{
+	
+	padding-top: 50px;
+	display: inline-block;
+	}
+	.copy-link-btn a {
+    background: #04cac7;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+	font-size:20px;
+	padding:10px 50px
+     }
+  .invite-guest-section h6
+  {
+   text-align:center;
+   color:#fff;
+  }
+ .invite-guest-section {
+    border: 1px solid #c1c1c1;
+    padding: 40px 10px;
+    background: #fff;
+}
+	.invite-guest-section h6
+	{
+	 font-size:30px;
+	 text-transform:uppercase;
+	 color:#000;
+	}
+  .web-cam-sec h5{
+  font-size:20px;
+  font-weight:bold;
+  color:#04cac7;
+  }
+  .invite-guest-section p {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+    padding-top: 26px;
+}
+  .link-site
+  {
+  text-align:center;
+  padding-top: 20px;
+  }
+  .link-site a
+  {
+  text-decoration:none;
+  color:#f98169;
+  font-size:16px;
+  }
+  .connect-cam-btn a {
+    background: #f98169;
+    padding: 10px 12px;
+    border-radius: 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.connect-cam-btn {
+    display: inline-block;
+}
+.live-preview h5
+{
+font-size:16px;
+font-weight:bold;
+text-align:center;
+padding: 16px 0;
+}
+.live-preview-section h5
+{
+font-size:24px;
+font-weight:bold;
+text-align:center;
+padding: 16px 0;
+}
+.guest-connected {
+    border: 1px solid #c1c1c1;
+    padding: 10px;
+    box-shadow: black;
+    background: #04cac7;
+    margin-top: 15px;
+}
+
+.guest-connected p{
+text-align:center;
+font-size:24px;
+font-weight:bold;
+}
+.live-preview-section {
+    border: 2px solid #04cac7;
+    padding: 20px 0;
+}
+
+.you-connected {
+    border: 1px solid #f98169;
+    padding: 10px;
+}
+
+.you-connected p{
+text-align:center;
+font-size:24px;
+font-weight:bold;
+}
+.start-broad-btn {
+    text-align: center;
+	padding-top:125px !important;
+}
+.start-broad-btn a {
+    font-size: 30px;
+    background: #ededed;
+    font-weight: bold;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #000;
+}
+.preview-text {
+    padding: 58px 10px;
+    text-align: center;
+    font-size: 16px;
+}
+.preview-text p
+{
+color:#f98169;
+}
+.agenda-btn, .show-btn
+{
+display:inline-block;
+}
+.agenda-btn a {
+    color: #fff;
+    padding: 7px 15px;
+	text-decoration:none;
+	background:#f98169;
+	text-transform:uppercase;
+	font-size:12px;
+}
+.show-btn a
+{
+color: #fff;
+    padding: 7px 15px;
+	text-decoration:none;
+	background:#f98169;
+	text-transform:uppercase;
+	font-size:12px;
+}
+.commun-section {
+    padding: 40px 10px;
+}
+.no-pade
+{
+padding:0;
+}
+.live-preview {
+    background: #fff;
+	border:1px solid #f98169;
+	padding-bottom:40px;
+    display:none; 	
+}
+
+button {
+    
+    box-shadow:none !important;
+   }
+#open-room {
+    background: #04cac7;
+}
+#join-room {
+    background: #04cac7;
+}
+#open-or-join-room
+{
+    background: #04cac7;
+}
+#room-urls h2
+{
+	display:none;
+}
+.mail-section {
+    background: #fff;
+    border: 1px solid #c1c1c1;
+    padding: 36px 10px;
+}
+.user-mail {
+    padding: 10px;
+    font-size: 18px;
+	width:330px;
+}
+.link-url {
+    padding: 10px;
+    font-size: 18px;
+    width:330px;
+}
+.send-brnd-btn {
+    padding: 10px 0;
+    text-align: center;
+}
+.send-brnd-btn a {
+    background: #04cac7;
+    padding:10px 50px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    color: #fff;
+   }
+.urllink-sec {
+    padding: 20px 0;
+    text-align: center;
+}
+.email-sec {
+    padding-top:25px;
+    text-align: center;
+}
+#videos-container {
+	padding:15px 0;
+}
+#room-urls
+{
+  
+    padding: 10px 10px;
+    font-size: 16px;
+    text-decoration: none;
+   
+}
+.time-line-brand {
+    padding: 10px;
+    width: 330px;
+    font-size: 16px;
+	color:#707070;
+}
+.drop-down-timeline {
+    text-align: center;
+}
+#send_br {
+    background: #f98169;
+    color: #fff;
+    font-size: 18px;
+}
+.footer-links a {
+    font-size:18px;
+    padding: 5px 0;
+}
+.link-name {
+    font-size:18px;
+    padding:0px 16px;
+	color:#fff;
+}
+.social-icon {
+    font-size:25px !important;
+}
+.hr-line {
+    display: inline-block;
+    width: 55%;
+    border: 1px solid;
+    margin-bottom: -9px;
+}
+.show-comments a {
+    color: #fff;
+    background: #f08169;
+    padding: 7px 15px;
+    font-size: 12px;
+    text-transform: uppercase;
+    float: right;
+}
+.show-comments h5 {
+    font-size: 14px;
+}
+.show-comments p {
+    display: inline;
+}
+.live-comments h5 {
+    color: #000;
+}
+.live-comments {
+    padding: 20px 0;
+}
+.agenda-show {
+    padding-top: 37px;
+}
+.agenda-form {
+    position: absolute;
+    left: -47%;
+}
+/****************MEDIA QUERY SECTION *********************/
+/***************Small Devices*****************************/
+
+@media (min-width: 320px) and (max-width: 767px) {
+  #home-section {
+    padding: 50px 0;
+  }
+
+  .banner-content > h3 {
+    font-size: 34px;
+  }
+
+  .banner-content > p {
+    font-size: 18px;
+  }
+
+  .main-content > h3 {
+    font-size: 24px;
+  }
+
+  .main-content > p {
+    font-size: 15px;
+  }
+
+  .imp-section {
+    padding: 20px 0;
+    text-align: center;
+  }
+ .title h4
+ {
+	 font-size:30px;
+ }
+ iframe {
+    width: 100%;
+    height: 50%;
+ }
+ .study-text p {
+    font-size: 14px;
+}
+  .message-us h5
+  {
+	  font-size:13px;
+  }
+  .footer-links a {
+    padding: 3px 0;
+    font-size: 10px;
+}
+.link-name {
+    font-size: 8px;
+}
+.app-links img{
+	width:100%;
+}
+.message-us h5 {
+    width: 100%;
+   font-size: 7px;
+  padding: 8px 0;
+}
+.feature-area h2 {
+    font-size:35px;
+  }
+
+
+  
+  	
+
+
+/*****************Medium devices*******************/
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .main-content > h3 {
+    font-size: 36px;
+  }
+
+  .main-content > p {
+    font-size: 17px;
+  }
+
+}
+

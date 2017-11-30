@@ -1,0 +1,9 @@
+[29-Sep-2017 07:39:46 UTC] PHP Fatal error:  Unsupported operand types in /home/humroboc/public_html/webrtc/many/live_stream/application/views/user/packages.php on line 192
+[29-Sep-2017 07:39:51 UTC] PHP Fatal error:  Unsupported operand types in /home/humroboc/public_html/webrtc/many/live_stream/application/views/user/packages.php on line 192
+[29-Sep-2017 07:50:32 UTC] PHP Fatal error:  Unsupported operand types in /home/humroboc/public_html/webrtc/many/live_stream/application/views/user/packages.php on line 193
+[29-Sep-2017 08:45:54 UTC] PHP Fatal error:  Call to undefined method M_user::post_payment() in /home/humroboc/public_html/webrtc/many/live_stream/application/controllers/Packages.php on line 46
+[29-Sep-2017 09:05:20 UTC] PHP Fatal error:  Call to undefined method M_user::post_payment() in /home/humroboc/public_html/webrtc/many/live_stream/application/controllers/Packages.php on line 46
+[24-Nov-2017 06:16:29 UTC] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home/humroboc/public_html/webrtc/many/live_stream/application/controllers/Video.php on line 32
+[24-Nov-2017 07:23:48 UTC] PHP Fatal error:  Call to a member function getAccessToken() on null in /home/humroboc/public_html/webrtc/many/live_stream/application/controllers/Video.php on line 62
+[24-Nov-2017 07:25:13 UTC] PHP Fatal error:  Call to undefined method Facebook::getAccessToken() in /home/humroboc/public_html/webrtc/many/live_stream/application/controllers/Video.php on line 62
+[24-Nov-2017 08:01:36 UTC] PHP Fatal error:  Call to a member function getGraphNode() on array in /home/humroboc/public_html/webrtc/many/live_stream/application/controllers/Video.php on line 25
